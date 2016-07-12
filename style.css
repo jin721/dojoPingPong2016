@@ -1,41 +1,39 @@
-/* 1st commit after merge */
-h1{
+h1 {
 	text-align: center;
-	/*font-family: 'Indie Flower', cursive;*/
 	font-family: 'Dosis', sans-serif;
 }
 html, body, .brackets {
-        width: 100%;
+	width: 100%;
         min-height: 100%;
         font-family: "Arial", sans-serif;
-    }
+}
     
 .metroBtn {
-    background-color: #2E7BCC;
-    color: #fff;
-    font-size: 1.1em;
-    padding: 10px;
-    display: inline-block;
-    cursor: pointer;
-    border-radius: 5px;
-    width: 12%;
-    text-align: center;
-    display: inline-block;
-    margin: 30px 43%;
+	background-color: #2E7BCC;
+	color: #fff;
+	font-size: 1.1em;
+	padding: 10px;
+	display: inline-block;
+	cursor: pointer;
+	border-radius: 5px;
+	width: 12%;
+	text-align: center;
+	display: inline-block;
+	margin: 30px 43%;
 }
 
 .brackets > div {
-    vertical-align: top;
-    clear: both;
+	vertical-align: top;
+    	clear: both;
 }
 
 .brackets > div > div {
-    float: left;
-    height: 100%;
+	float: left;
+	height: 100%;
 }
 
 .brackets > div > div > div {
-    margin: 50px 0;
+	margin: 50px 0;
 }
 
 .brackets div.bracketbox {
